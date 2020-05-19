@@ -1,0 +1,4 @@
+// Auth Token types
+export const FIRST_ACCESS = "FIRST_ACCESS";
+export const FACEBOOK_TOKEN = "FACEBOOK_TOKEN";
+export const PUSH_NOTIFICATIONS_TOKEN = "PUSH_NOTIFICATIONS_TOKEN";
